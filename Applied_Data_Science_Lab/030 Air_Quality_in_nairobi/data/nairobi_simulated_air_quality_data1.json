@@ -1,0 +1,702 @@
+[
+    {
+        "_id": "6525d772f44bfedd842a6f00",
+        "metadata": {
+            "lat": -1.3,
+            "lon": 36.785,
+            "measurement": "temperature",
+            "sensor_id": 50,
+            "sensor_type": "DHT22",
+            "site": 20
+        },
+        "temperature": 16.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:00:04.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f01",
+        "metadata": {
+            "lat": -1.29,
+            "lon": 36.794999999999995,
+            "measurement": "humidity",
+            "sensor_id": 51,
+            "sensor_type": "BME280",
+            "site": 21
+        },
+        "temperature": null,
+        "humidity": 62,
+        "timestamp": "2018-09-01T00:00:14.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f02",
+        "metadata": {
+            "lat": -1.28,
+            "lon": 36.805,
+            "measurement": "temperature",
+            "sensor_id": 52,
+            "sensor_type": "DHT22",
+            "site": 22
+        },
+        "temperature": 17.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:00:24.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f03",
+        "metadata": {
+            "lat": -1.27,
+            "lon": 36.815,
+            "measurement": "humidity",
+            "sensor_id": 53,
+            "sensor_type": "BME280",
+            "site": 23
+        },
+        "temperature": null,
+        "humidity": 66,
+        "timestamp": "2018-09-01T00:00:34.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f04",
+        "metadata": {
+            "lat": -1.26,
+            "lon": 36.824999999999996,
+            "measurement": "temperature",
+            "sensor_id": 54,
+            "sensor_type": "DHT22",
+            "site": 24
+        },
+        "temperature": 18.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:00:44.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f05",
+        "metadata": {
+            "lat": -1.25,
+            "lon": 36.834999999999994,
+            "measurement": "humidity",
+            "sensor_id": 55,
+            "sensor_type": "BME280",
+            "site": 20
+        },
+        "temperature": null,
+        "humidity": 70,
+        "timestamp": "2018-09-01T00:00:54.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f06",
+        "metadata": {
+            "lat": -1.24,
+            "lon": 36.845,
+            "measurement": "temperature",
+            "sensor_id": 56,
+            "sensor_type": "DHT22",
+            "site": 21
+        },
+        "temperature": 17.0,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:01:04.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f07",
+        "metadata": {
+            "lat": -1.23,
+            "lon": 36.855,
+            "measurement": "humidity",
+            "sensor_id": 57,
+            "sensor_type": "BME280",
+            "site": 22
+        },
+        "temperature": null,
+        "humidity": 74,
+        "timestamp": "2018-09-01T00:01:14.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f08",
+        "metadata": {
+            "lat": -1.22,
+            "lon": 36.864999999999995,
+            "measurement": "temperature",
+            "sensor_id": 58,
+            "sensor_type": "DHT22",
+            "site": 23
+        },
+        "temperature": 18.0,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:01:24.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f09",
+        "metadata": {
+            "lat": -1.21,
+            "lon": 36.875,
+            "measurement": "humidity",
+            "sensor_id": 59,
+            "sensor_type": "BME280",
+            "site": 24
+        },
+        "temperature": null,
+        "humidity": 78,
+        "timestamp": "2018-09-01T00:01:34.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f0a",
+        "metadata": {
+            "lat": -1.3,
+            "lon": 36.785,
+            "measurement": "temperature",
+            "sensor_id": 50,
+            "sensor_type": "DHT22",
+            "site": 20
+        },
+        "temperature": 16.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:01:44.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f0b",
+        "metadata": {
+            "lat": -1.29,
+            "lon": 36.794999999999995,
+            "measurement": "humidity",
+            "sensor_id": 51,
+            "sensor_type": "BME280",
+            "site": 21
+        },
+        "temperature": null,
+        "humidity": 62,
+        "timestamp": "2018-09-01T00:01:54.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f0c",
+        "metadata": {
+            "lat": -1.28,
+            "lon": 36.805,
+            "measurement": "temperature",
+            "sensor_id": 52,
+            "sensor_type": "DHT22",
+            "site": 22
+        },
+        "temperature": 17.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:02:04.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f0d",
+        "metadata": {
+            "lat": -1.27,
+            "lon": 36.815,
+            "measurement": "humidity",
+            "sensor_id": 53,
+            "sensor_type": "BME280",
+            "site": 23
+        },
+        "temperature": null,
+        "humidity": 66,
+        "timestamp": "2018-09-01T00:02:14.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f0e",
+        "metadata": {
+            "lat": -1.26,
+            "lon": 36.824999999999996,
+            "measurement": "temperature",
+            "sensor_id": 54,
+            "sensor_type": "DHT22",
+            "site": 24
+        },
+        "temperature": 18.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:02:24.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f0f",
+        "metadata": {
+            "lat": -1.25,
+            "lon": 36.834999999999994,
+            "measurement": "humidity",
+            "sensor_id": 55,
+            "sensor_type": "BME280",
+            "site": 20
+        },
+        "temperature": null,
+        "humidity": 70,
+        "timestamp": "2018-09-01T00:02:34.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f10",
+        "metadata": {
+            "lat": -1.24,
+            "lon": 36.845,
+            "measurement": "temperature",
+            "sensor_id": 56,
+            "sensor_type": "DHT22",
+            "site": 21
+        },
+        "temperature": 17.0,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:02:44.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f11",
+        "metadata": {
+            "lat": -1.23,
+            "lon": 36.855,
+            "measurement": "humidity",
+            "sensor_id": 57,
+            "sensor_type": "BME280",
+            "site": 22
+        },
+        "temperature": null,
+        "humidity": 74,
+        "timestamp": "2018-09-01T00:02:54.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f12",
+        "metadata": {
+            "lat": -1.22,
+            "lon": 36.864999999999995,
+            "measurement": "temperature",
+            "sensor_id": 58,
+            "sensor_type": "DHT22",
+            "site": 23
+        },
+        "temperature": 18.0,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:03:04.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f13",
+        "metadata": {
+            "lat": -1.21,
+            "lon": 36.875,
+            "measurement": "humidity",
+            "sensor_id": 59,
+            "sensor_type": "BME280",
+            "site": 24
+        },
+        "temperature": null,
+        "humidity": 78,
+        "timestamp": "2018-09-01T00:03:14.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f14",
+        "metadata": {
+            "lat": -1.3,
+            "lon": 36.785,
+            "measurement": "temperature",
+            "sensor_id": 50,
+            "sensor_type": "DHT22",
+            "site": 20
+        },
+        "temperature": 16.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:03:24.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f15",
+        "metadata": {
+            "lat": -1.29,
+            "lon": 36.794999999999995,
+            "measurement": "humidity",
+            "sensor_id": 51,
+            "sensor_type": "BME280",
+            "site": 21
+        },
+        "temperature": null,
+        "humidity": 62,
+        "timestamp": "2018-09-01T00:03:34.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f16",
+        "metadata": {
+            "lat": -1.28,
+            "lon": 36.805,
+            "measurement": "temperature",
+            "sensor_id": 52,
+            "sensor_type": "DHT22",
+            "site": 22
+        },
+        "temperature": 17.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:03:44.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f17",
+        "metadata": {
+            "lat": -1.27,
+            "lon": 36.815,
+            "measurement": "humidity",
+            "sensor_id": 53,
+            "sensor_type": "BME280",
+            "site": 23
+        },
+        "temperature": null,
+        "humidity": 66,
+        "timestamp": "2018-09-01T00:03:54.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f18",
+        "metadata": {
+            "lat": -1.26,
+            "lon": 36.824999999999996,
+            "measurement": "temperature",
+            "sensor_id": 54,
+            "sensor_type": "DHT22",
+            "site": 24
+        },
+        "temperature": 18.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:04:04.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f19",
+        "metadata": {
+            "lat": -1.25,
+            "lon": 36.834999999999994,
+            "measurement": "humidity",
+            "sensor_id": 55,
+            "sensor_type": "BME280",
+            "site": 20
+        },
+        "temperature": null,
+        "humidity": 70,
+        "timestamp": "2018-09-01T00:04:14.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f1a",
+        "metadata": {
+            "lat": -1.24,
+            "lon": 36.845,
+            "measurement": "temperature",
+            "sensor_id": 56,
+            "sensor_type": "DHT22",
+            "site": 21
+        },
+        "temperature": 17.0,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:04:24.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f1b",
+        "metadata": {
+            "lat": -1.23,
+            "lon": 36.855,
+            "measurement": "humidity",
+            "sensor_id": 57,
+            "sensor_type": "BME280",
+            "site": 22
+        },
+        "temperature": null,
+        "humidity": 74,
+        "timestamp": "2018-09-01T00:04:34.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f1c",
+        "metadata": {
+            "lat": -1.22,
+            "lon": 36.864999999999995,
+            "measurement": "temperature",
+            "sensor_id": 58,
+            "sensor_type": "DHT22",
+            "site": 23
+        },
+        "temperature": 18.0,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:04:44.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f1d",
+        "metadata": {
+            "lat": -1.21,
+            "lon": 36.875,
+            "measurement": "humidity",
+            "sensor_id": 59,
+            "sensor_type": "BME280",
+            "site": 24
+        },
+        "temperature": null,
+        "humidity": 78,
+        "timestamp": "2018-09-01T00:04:54.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f1e",
+        "metadata": {
+            "lat": -1.3,
+            "lon": 36.785,
+            "measurement": "temperature",
+            "sensor_id": 50,
+            "sensor_type": "DHT22",
+            "site": 20
+        },
+        "temperature": 16.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:05:04.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f1f",
+        "metadata": {
+            "lat": -1.29,
+            "lon": 36.794999999999995,
+            "measurement": "humidity",
+            "sensor_id": 51,
+            "sensor_type": "BME280",
+            "site": 21
+        },
+        "temperature": null,
+        "humidity": 62,
+        "timestamp": "2018-09-01T00:05:14.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f20",
+        "metadata": {
+            "lat": -1.28,
+            "lon": 36.805,
+            "measurement": "temperature",
+            "sensor_id": 52,
+            "sensor_type": "DHT22",
+            "site": 22
+        },
+        "temperature": 17.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:05:24.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f21",
+        "metadata": {
+            "lat": -1.27,
+            "lon": 36.815,
+            "measurement": "humidity",
+            "sensor_id": 53,
+            "sensor_type": "BME280",
+            "site": 23
+        },
+        "temperature": null,
+        "humidity": 66,
+        "timestamp": "2018-09-01T00:05:34.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f22",
+        "metadata": {
+            "lat": -1.26,
+            "lon": 36.824999999999996,
+            "measurement": "temperature",
+            "sensor_id": 54,
+            "sensor_type": "DHT22",
+            "site": 24
+        },
+        "temperature": 18.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:05:44.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f23",
+        "metadata": {
+            "lat": -1.25,
+            "lon": 36.834999999999994,
+            "measurement": "humidity",
+            "sensor_id": 55,
+            "sensor_type": "BME280",
+            "site": 20
+        },
+        "temperature": null,
+        "humidity": 70,
+        "timestamp": "2018-09-01T00:05:54.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f24",
+        "metadata": {
+            "lat": -1.24,
+            "lon": 36.845,
+            "measurement": "temperature",
+            "sensor_id": 56,
+            "sensor_type": "DHT22",
+            "site": 21
+        },
+        "temperature": 17.0,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:06:04.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f25",
+        "metadata": {
+            "lat": -1.23,
+            "lon": 36.855,
+            "measurement": "humidity",
+            "sensor_id": 57,
+            "sensor_type": "BME280",
+            "site": 22
+        },
+        "temperature": null,
+        "humidity": 74,
+        "timestamp": "2018-09-01T00:06:14.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f26",
+        "metadata": {
+            "lat": -1.22,
+            "lon": 36.864999999999995,
+            "measurement": "temperature",
+            "sensor_id": 58,
+            "sensor_type": "DHT22",
+            "site": 23
+        },
+        "temperature": 18.0,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:06:24.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f27",
+        "metadata": {
+            "lat": -1.21,
+            "lon": 36.875,
+            "measurement": "humidity",
+            "sensor_id": 59,
+            "sensor_type": "BME280",
+            "site": 24
+        },
+        "temperature": null,
+        "humidity": 78,
+        "timestamp": "2018-09-01T00:06:34.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f28",
+        "metadata": {
+            "lat": -1.3,
+            "lon": 36.785,
+            "measurement": "temperature",
+            "sensor_id": 50,
+            "sensor_type": "DHT22",
+            "site": 20
+        },
+        "temperature": 16.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:06:44.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f29",
+        "metadata": {
+            "lat": -1.29,
+            "lon": 36.794999999999995,
+            "measurement": "humidity",
+            "sensor_id": 51,
+            "sensor_type": "BME280",
+            "site": 21
+        },
+        "temperature": null,
+        "humidity": 62,
+        "timestamp": "2018-09-01T00:06:54.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f2a",
+        "metadata": {
+            "lat": -1.28,
+            "lon": 36.805,
+            "measurement": "temperature",
+            "sensor_id": 52,
+            "sensor_type": "DHT22",
+            "site": 22
+        },
+        "temperature": 17.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:07:04.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f2b",
+        "metadata": {
+            "lat": -1.27,
+            "lon": 36.815,
+            "measurement": "humidity",
+            "sensor_id": 53,
+            "sensor_type": "BME280",
+            "site": 23
+        },
+        "temperature": null,
+        "humidity": 66,
+        "timestamp": "2018-09-01T00:07:14.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f2c",
+        "metadata": {
+            "lat": -1.26,
+            "lon": 36.824999999999996,
+            "measurement": "temperature",
+            "sensor_id": 54,
+            "sensor_type": "DHT22",
+            "site": 24
+        },
+        "temperature": 18.5,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:07:24.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f2d",
+        "metadata": {
+            "lat": -1.25,
+            "lon": 36.834999999999994,
+            "measurement": "humidity",
+            "sensor_id": 55,
+            "sensor_type": "BME280",
+            "site": 20
+        },
+        "temperature": null,
+        "humidity": 70,
+        "timestamp": "2018-09-01T00:07:34.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f2e",
+        "metadata": {
+            "lat": -1.24,
+            "lon": 36.845,
+            "measurement": "temperature",
+            "sensor_id": 56,
+            "sensor_type": "DHT22",
+            "site": 21
+        },
+        "temperature": 17.0,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:07:44.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f2f",
+        "metadata": {
+            "lat": -1.23,
+            "lon": 36.855,
+            "measurement": "humidity",
+            "sensor_id": 57,
+            "sensor_type": "BME280",
+            "site": 22
+        },
+        "temperature": null,
+        "humidity": 74,
+        "timestamp": "2018-09-01T00:07:54.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f30",
+        "metadata": {
+            "lat": -1.22,
+            "lon": 36.864999999999995,
+            "measurement": "temperature",
+            "sensor_id": 58,
+            "sensor_type": "DHT22",
+            "site": 23
+        },
+        "temperature": 18.0,
+        "humidity": null,
+        "timestamp": "2018-09-01T00:08:04.301000"
+    },
+    {
+        "_id": "6525d772f44bfedd842a6f31",
+        "metadata": {
+            "lat": -1.21,
+            "lon": 36.875,
+            "measurement": "humidity",
+            "sensor_id": 59,
+            "sensor_type": "BME280",
+            "site": 24
+        },
+        "temperature": null,
+        "humidity": 78,
+        "timestamp": "2018-09-01T00:08:14.301000"
+    }
+]
